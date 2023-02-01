@@ -7,5 +7,6 @@ const recipesRouter = express.Router();
 
 recipesRouter
     .get("/recipes", RecipeController.listRecipes)
+    .post("/recipes", RecipeController.createRecipe)
 
 export default recipesRouter
