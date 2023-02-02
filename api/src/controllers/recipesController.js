@@ -1,7 +1,4 @@
-import mongoose from "mongoose";
 import recipes from "../models/Recipe.js";
-import json_data from "../data/recipes.json" assert { type: "json" };
-const recipes_data = JSON.parse(json_data);
 
 class RecipeController {
   //GET
@@ -52,14 +49,14 @@ class RecipeController {
 
   //DELETE
   static deleteRecipe(req, res) {
-    const {id} = req.params
-    recipes.findByIdAndDelete(id, error => {
-      if(!error){
-        res.status(201).send(`Receita apagada com sucesso \n ${req.body}`)
-        return
+    const { id } = req.params;
+    recipes.findByIdAndDelete(id, (error) => {
+      if (!error) {
+        res.status(201).send(`Receita apagada com sucesso \n ${req.body}`);
+        return;
       }
       res.status(500).send(`${error.message} - falha ao apagar a receita`);
-    })
+    });
   }
 }
 
