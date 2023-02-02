@@ -1,0 +1,282 @@
+[{
+  "_id": {
+    "$oid": "63db16def7dc9371d7cd7cca"
+  },
+  "name": "Barrinhas de cereal",
+  "ingredients": [
+    "Nozes",
+    "Frutas secas",
+    "Tamaras"
+  ],
+  "price": 61,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63db16def7dc9371d7cd7ccd"
+  },
+  "name": "Pão de queijo",
+  "ingredients": [
+    "Creme de leite",
+    "Queijo parmesao",
+    "Polvilho doce"
+  ],
+  "price": 22,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63db16def7dc9371d7cd7cce"
+  },
+  "name": "Bolo para café da tarde",
+  "ingredients": [
+    "Ovos",
+    "Farinha",
+    "Fermento"
+  ],
+  "price": 59,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63db16def7dc9371d7cd7ccb"
+  },
+  "name": "Mousse de limão",
+  "ingredients": [
+    "Leite condensado",
+    "Creme de leite",
+    "Limao"
+  ],
+  "price": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63db16def7dc9371d7cd7cd0"
+  },
+  "name": "Biscoito de banana com aveia",
+  "ingredients": [
+    "Banana",
+    "Aveia"
+  ],
+  "price": 70,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63db16def7dc9371d7cd7cd1"
+  },
+  "name": "Pão de queijo (sem fermento)",
+  "ingredients": [
+    "Creme de leite",
+    "Queijo ralado",
+    "Polvilho"
+  ],
+  "price": 31,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63db16def7dc9371d7cd7ccc"
+  },
+  "name": "Sorvete caseiro",
+  "ingredients": [
+    "Leite condensado",
+    "Creme de leite",
+    "Gelatina"
+  ],
+  "price": 79,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63db16def7dc9371d7cd7cd3"
+  },
+  "name": "Frango Caramelizado",
+  "ingredients": [
+    "Coca cola",
+    "Molho de soja",
+    "Frango"
+  ],
+  "price": 7,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63db16def7dc9371d7cd7cd4"
+  },
+  "name": "Rosas do deserto",
+  "ingredients": [
+    "Chocolate",
+    "Corn-flakes",
+    "Manteiga"
+  ],
+  "price": 16,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63db16def7dc9371d7cd7cd5"
+  },
+  "name": "Bolo de caneca",
+  "ingredients": [
+    "Ovo",
+    "Cacau em po"
+  ],
+  "price": 20,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63db16def7dc9371d7cd7cd6"
+  },
+  "name": "Mingau de Aveia",
+  "ingredients": [
+    "Flocos de aveia",
+    "Leite",
+    "Acucar baunilhado"
+  ],
+  "price": 11,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63db16def7dc9371d7cd7cd7"
+  },
+  "name": "Brigadeiro de Colher",
+  "ingredients": [
+    "Leite condensado",
+    "Manteiga",
+    "Chocolate em po"
+  ],
+  "price": 21,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63db16def7dc9371d7cd7cd8"
+  },
+  "name": "Frozen iogurte de morango",
+  "ingredients": [
+    "Iogurte",
+    "Morango"
+  ],
+  "price": 21,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63db16def7dc9371d7cd7ccf"
+  },
+  "name": "Massa de pizza",
+  "ingredients": [
+    "Farinha",
+    "Iogurte",
+    "Fermento"
+  ],
+  "price": 59,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63db16def7dc9371d7cd7cda"
+  },
+  "name": "Ovos em nuvens",
+  "ingredients": [
+    "Ovo",
+    "Queijo",
+    "Salame",
+    "Bacon"
+  ],
+  "price": 51,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63db16def7dc9371d7cd7cdb"
+  },
+  "name": "Smoothie",
+  "ingredients": [
+    "Abacate",
+    "Amora",
+    "Leite de coco"
+  ],
+  "price": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63db16def7dc9371d7cd7cdc"
+  },
+  "name": "Omelete de claras com peito de peru",
+  "ingredients": [
+    "Ovo",
+    "Peito de Peru",
+    "Margarina"
+  ],
+  "price": 75,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63db16def7dc9371d7cd7cdd"
+  },
+  "name": "Sorvete de Banana",
+  "ingredients": [
+    "Banana"
+  ],
+  "price": 65,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63db16def7dc9371d7cd7cd2"
+  },
+  "name": "Massa com queijo",
+  "ingredients": [
+    "Massa",
+    "Leite",
+    "Queijo"
+  ],
+  "price": 61,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63db16def7dc9371d7cd7cdf"
+  },
+  "name": "Chocolate quente",
+  "ingredients": [
+    "Leite",
+    "Nutella"
+  ],
+  "price": 54,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63db16def7dc9371d7cd7ce0"
+  },
+  "name": "Macaroon cookies",
+  "ingredients": [
+    "Coco ralado",
+    "Leite condesado"
+  ],
+  "price": 68,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63db16def7dc9371d7cd7ce1"
+  },
+  "name": "Muffins",
+  "ingredients": [
+    "Ovo",
+    "Brocolis",
+    "Queijo"
+  ],
+  "price": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63db16def7dc9371d7cd7cd9"
+  },
+  "name": "Baked potato (requeijao e parmesao)",
+  "ingredients": [
+    "Batata",
+    "Requeijao",
+    "Parmesao"
+  ],
+  "price": 97,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63db16def7dc9371d7cd7cde"
+  },
+  "name": "Torta de nutella",
+  "ingredients": [
+    "Ovo",
+    "Nutella"
+  ],
+  "price": 31,
+  "__v": 0
+}]
