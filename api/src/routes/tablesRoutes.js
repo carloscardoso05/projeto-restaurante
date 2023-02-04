@@ -5,8 +5,9 @@ const tablesRouter = express.Router();
 
 tablesRouter
   .get("/tables", TableController.listTables)
-  .get("/tables/:id", TableController.findTableById)
-  // .get("/tables/:id/orders", TableController.listOrders)
-  .post("/tables/", TableController.createTable);
+  .get("/tables/:tableId", TableController.findTableById)
+  .post("/tables/", TableController.createTable)
+  .put("/tables/:tableId", TableController.updateTable)
+  .delete("/tables/:tableId", TableController.deleteTable)
 
 export default tablesRouter;

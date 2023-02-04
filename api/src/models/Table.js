@@ -5,7 +5,7 @@ export const tableSchema = new mongoose.Schema({
   number: { type: Number, required: true },
   orders: [orderSchema],
   empty: { type: Boolean },
-  bill: { type: Number },
+  bill: { type: Number, default: 0 },
 });
 
 const tables = mongoose.model("tables", tableSchema);
