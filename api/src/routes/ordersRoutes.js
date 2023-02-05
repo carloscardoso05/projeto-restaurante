@@ -7,7 +7,7 @@ ordersRouter
   .get("/tables/:tableId/orders", OrderController.listOrders)
   .get("/tables/:tableId/orders/:orderId", OrderController.findOrderById)
   .post("/tables/:tableId/orders/", OrderController.createOrder)
-  // .put("/tables/:tableId/orders/:orderId", OrderController.updateOrder)
-  // .delete("/tables/:tableId/orders/:orderId", OrderController.deleteOrder)
+  .put("/tables/:tableId/orders/:orderId", OrderController.updateOrder)
+  .delete("/tables/:tableId/orders/:orderId", OrderController.deleteOrder)
 
 export default ordersRouter;
