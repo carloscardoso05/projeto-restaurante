@@ -9,6 +9,11 @@ db.once("open", () =>
 
 const app = express();
 
+app.use((req, res, next) => {
+  res.set('Access-Control-Allow-Origin', '*');
+  next();
+})
+
 routes(app)
 
 export default app;
